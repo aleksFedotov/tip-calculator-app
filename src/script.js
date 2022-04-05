@@ -1,3 +1,5 @@
+import './style.css';
+
 const billInput = document.querySelector('.bill-input');
 const tipAmount = document.querySelectorAll('.tip-amount');
 const customTip = document.querySelector('.custom-tip');
